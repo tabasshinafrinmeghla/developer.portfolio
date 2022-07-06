@@ -20,7 +20,7 @@ p{
 .blue{
     color: rgb(243, 18, 202);
 }
-section{
+.flexible-container{
     display: flex;
     width: 100%;
     margin-bottom: 100px;
