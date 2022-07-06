@@ -1,0 +1,48 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Gulzar', serif;
+}
+h1{
+    font-size: 30px;
+    color: rgb(244, 33, 135);
+}
+h2{
+    font-size: 20px;
+    color: rgb(242, 15, 250);
+
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+
+}
+.blue{
+    color: rgb(243, 18, 202);
+}
+section{
+    display: flex;
+    width: 80%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.half-width img{
+    width: 150%;
+
+}
+.link-button{
+    text-decoration: none;
+    box-shadow: 5px 7px;
+    background: linear-gradient(rgb(134, 14, 220) rgb(171, 102, 208));
+    padding: 5px 20px;
+    color: rgb(117, 28, 169);
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    
+    
+}
