@@ -23,6 +23,7 @@ p{
 section{
     display: flex;
     width: 100%;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 100%;
@@ -46,4 +47,7 @@ section{
     background-image: url(images/top-banner.png);
     
     
+}
+.WEb Developers{
+    background-image: url(images/dream-bg.png);
 }
