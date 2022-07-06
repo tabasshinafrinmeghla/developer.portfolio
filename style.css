@@ -5,11 +5,11 @@ body{
 }
 h1{
     font-size: 50px;
-    color: rgb(244, 33, 135);
+    color: rgb(96, 33, 244);
 }
 h2{
     font-size: 20px;
-    color: rgb(242, 15, 250);
+    color: rgb(250, 47, 67);
 
 }
 p{
@@ -22,10 +22,10 @@ p{
 }
 section{
     display: flex;
-    width: 80%;
+    width: 100%;
 }
 .half-width{
-    width: 50%;
+    width: 100%;
     padding-left: 50px;
 }
 
@@ -36,9 +36,9 @@ section{
 .link-button{
     text-decoration: none;
     box-shadow: 5px 7px;
-    background: linear-gradient(rgb(134, 14, 220) rgb(171, 102, 208));
+    background: linear-gradient(rgb(220, 14, 48) rgb(171, 102, 208));
     padding: 5px 20px;
-    color: rgb(117, 28, 169);
+    color: rgb(169, 28, 54);
     font-weight: 700;
     border-radius: 5px;
 }
